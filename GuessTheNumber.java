@@ -31,7 +31,7 @@ public class GuessTheNumber extends JFrame implements ActionListener
 		b2.addActionListener(this);
 		b3.addActionListener(this);
         setSize(500,500);
-        setLocation(500,500);
+        setLocation(500,250);
         setResizable(false);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
